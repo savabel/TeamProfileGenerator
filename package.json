@@ -1,0 +1,31 @@
+{
+  "name": "EngineEmployee-Summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savabel/EngineEmployee-Summary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savabel/EngineEmployee-Summary/issues"
+  },
+  "homepage": "https://github.com/savabel/EngineEmployee-Summary#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "path": "^0.12.7"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
