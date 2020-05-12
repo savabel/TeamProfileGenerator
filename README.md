@@ -28,7 +28,7 @@ I did not run the required tests as I was running out of time to complete this.
 In the terminal windows : RUN "node index.js"
 See the related screenshot images in /../../images/ folder
 
-<img src="./images/ScreenShot01.jpg" alt="Use the Application" />
+<img src="../../images/Screenshot01.jpg" alt="Use the Application" />
 ## License 
 MIT License
 
@@ -44,4 +44,5 @@ GitHub: https://github.com/savabel
 
 ### Tests
 See the related screenshot images in ./images/ folder
-<img src="../../images/ScreenShot02.jpg" alt="Use the Application" />
+
+<img src="../../images/Screenshot02.jpg" alt="Test the Application" />
