@@ -1,6 +1,7 @@
 
 # Project Title : Team Profile Generator
 
+
 ## Project Description:
 Build a command line application that creates a webpage that displays a manager's team's basic information
 
